@@ -1,5 +1,0 @@
-Web Tech: HTML, CSS, JS, D3 and API
-
-This is a solution to Freecodecamp's Data Visualization project (https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-choropleth-map), using my judgement for styling and the D3 svg-based visualization library to show the json data from the given US Education dataset (https://cdn.freecodecamp.org/testable-projects-fcc/data/choropleth_map/for_user_education.json) and US County Data(https://cdn.freecodecamp.org/testable-projects-fcc/data/choropleth_map/counties.json).
-
-Data visualization like this choropleth map helps make data easier for the brain to understand and pull insights from.
